@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+    color: black;
+}
+h3{
+    text-align: left;
+    color: blue;
+}
+table {
+    width: 100%;
+
+}
+th,td{color: black;
+    text-align: center;
+    border: 2px solid yellow;
+    padding: 4px;
+    background-color: brown;
+
+}
